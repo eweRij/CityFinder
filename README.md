@@ -1,15 +1,14 @@
-CityFinder
+##CityFinder
 
 SPA CRUD application for searching cities from data base ( using json server).
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 To run this application use npm start. 
-To run json server , located in main folder in server folder run : json-server --watch db.json --port 8000.
+To run json server , located in main folder in server folder run : 
+
+###json-server --watch db.json --port 8000.
+
 ## Available Scripts
-
-In the project directory, you can run:
-
-### `npm start`
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
