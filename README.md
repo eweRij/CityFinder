@@ -3,7 +3,8 @@
 SPA CRUD application for searching cities from data base ( using json server).
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-To run this application use npm start. 
+To run this application use:
+### npm start. 
 To run json server , located in main folder in server folder run : 
 
 ### json-server --watch db.json --port 8000.
