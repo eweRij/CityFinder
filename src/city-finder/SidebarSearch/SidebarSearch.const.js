@@ -1,0 +1,18 @@
+export const districts = [
+  { name: "dolnośląskie" },
+  { name: "kujawsko-pomorskie" },
+  { name: "lubelskie" },
+  { name: "lubuskie" },
+  { name: "łódzkie" },
+  { name: "małopolskie" },
+  { name: "mazowieckie" },
+  { name: "opolskie" },
+  { name: "podkarpackie" },
+  { name: "podlaskie" },
+  { name: "pomorskie" },
+  { name: "świętokrzyskie" },
+  { name: "śląskie" },
+  { name: "warmińsko-mazurskie" },
+  { name: "wielkopolskie" },
+  { name: "zachodnio-pomorskie" },
+];

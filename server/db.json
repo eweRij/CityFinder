@@ -1,0 +1,107 @@
+{
+  "cities": [
+    {
+      "id": 1,
+      "name": "Warszawa",
+      "voivodeship": "mazowieckie",
+      "picture_url": "https://upload.wikimedia.org/wikipedia/commons/0/05/PKiN_widziany_z_WFC.jpg",
+      "description": "Warszawa, miasto stołeczne Warszawa[2] (m.st. Warszawa) stolica Polski[3] i województwa mazowieckiego[4], największe miasto wŚrodkowomazowieckiej, na Mazowszu, nad Wisłą. Prawa miejskie uzyskała przed 1300[6]. W 1569 mocą unii lubelskiej Warszawa została ustanowiona miejscem obrad sejmów Rzeczypospolitej Obojga Narodów[a]. Od 1573 odbywały się tam wolne elekcje. Po 1596 do Warszawy przeniesiono dwór królewski i urzędy centralne, a w 1611 w rozbudowanym Zamku Królewskim na stałe zamieszkał król Zygmunt III Waza. Miejsce obrad sejmików generalnych województwa mazowieckiego i sejmików ziemskich ziemi warszawskiej od XVI wieku do pierwszej połowy XVIII wieku[7]. Warszawa jest największym miastem w Polsce pod względem liczby ludności i powierzchni[1]. Jest również jedynym polskim miastem, którego ustrój jest określony odrębną ustawą. Od 2002 jest gminą miejską mającą status miasta na prawach powiatu[8]. W jej skład wchodzi 18 jednostek pomocniczych – dzielnic m.st. Warszawy[9]. Warszawa jest ważnym ośrodkiem naukowym, kulturalnym, politycznym oraz gospodarczym. Tutaj znajdują się siedziby m.in. Prezydenta RP, Sejmu i Senatu, Rady Ministrów oraz Narodowego Banku Polskiego. Warszawa jest także siedzibą agencji Frontex, odpowiedzialnej za bezpieczeństwo granic zewnętrznych Unii Europejskiej, oraz Biura Instytucji Demokratycznych i Praw Człowieka (ODIHR), agendy OBWE. W 2020 think tank Globalization and World Cities (GaWC), badający wzajemne stosunki pomiędzy miastami świata w kontekście globalizacji zaliczył Warszawę do kategorii Alpha-[10].",
+      "known_places": [
+        "Kolumna Zygmunta",
+        "Zamek Królewski",
+        "Pałac kultury i Nauki",
+        "Teatr Narodowy",
+        "Syrenka Warszawska",
+        "Stadion Narodowy",
+        "Pałac w Wilanowie"
+      ],
+      "links": [
+        "www.um.warszawa.pl",
+        "www.onet.pl"
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Lublin",
+      "voivodeship": "lubelskie",
+      "picture_url": "https://upload.wikimedia.org/wikipedia/commons/8/84/Lublin%2C_trzy_wie%C5%BCe_%282007-04-01%29.jpg",
+      "description": "Lublin ( miasto na prawach powiatu we wschodniej Polsce, stolica województwa i powiatu lubelskiego, centralny ośrodek aglomeracji lubelskiej. Dziewiąte co do wielkości populacji miasto w Polsce, drugie w Małopolsce (334 681 mieszkańców (stan na 30 czerwca 2021)[4]. Położone na Wyżynie Lubelskiej nad Bystrzycą, na dwóch odmiennych obszarach. Część zachodnia ma urozmaiconą rzeźbę terenu. Występują tam liczne wąwozy, doliny i wzgórza. Część wschodnia jest płaska. Lublin jest ulokowany ok. 170 km od Warszawy, nieopodal granicy krain historycznych: Małopolski i Rusi Czerwonej i ok. 100 km od przejścia granicznego z Ukrainą. Osada handlowa, położona na szlaku prowadzącym z okolic Morza Czarnego, istniała w tym miejscu od VI w. Od X do XV w. Lublin należał do jednostki administracyjnej, której centrum był Sandomierz. W I Rzeczypospolitej był ważnym ośrodkiem administracyjnym, handlowym i kulturalnym. Od połowy XVII w. i w XVIII w. miasto podupadło i zubożało. W wyniku III rozbioru znalazło się w zaborze austriackim, następnie kolejno: w Księstwie Warszawskim i Królestwie Polskim. W 3. ćwierci XIX w. Lublin, włączony Koleją Nadwiślańską do rosyjskiej sieci kolejowej, szybko rozrósł się i nabrał charakteru przemysłowego. Zmienił się także jego kształt urbanistyczny. W pierwszej i drugiej wojnie światowej padł ofiarą gospodarki rabunkowej i Holokaustu. W okresie PRL nastąpił gwałtowny rozwój Lublina. W tym czasie ludność wzrosła ponad trzykrotnie. Umocnił się akademicki charakter miasta. Zbudowano szereg zakładów przemysłowych, wzniesiono nowe dzielnice mieszkaniowe. Od 2004 przeprowadzane są liczne inwestycje z funduszy Unii Europejskiej. Miasto rozwija się jako ośrodek nauki, kultury, turystyki, sportu i rekreacji, a także usług i przemysłu. Umacnia się jako węzeł transportowy: posiada ekspresową obwodnicę w ciągu Via Carpathia oraz port lotniczy. Lublin jest członkiem Unii Metropolii Polskich, siedzibą instytucji samorządowych i państwowych, kon",
+      "known_places": [
+        "Plac Litewski",
+        "Stare Miasto",
+        "Rynek i Trybunał Koronny",
+        "Plac Po Farze"
+      ],
+      "links": [
+        "https://polskapogodzinach.pl"
+      ]
+    },
+    {
+      "id": 8,
+      "name": "Wrocław",
+      "voivodeship": "dolnośląskie",
+      "picture_url": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Ratusz_wroclaw.jpg",
+      "description": "o. Od 1 stycznia 1999 stolica województwa dolnośląskiego, należy do Unii Metropolii Polskich i Eurocities.",
+      "known_places": [
+        "Ogród Japoński",
+        "Most Pokutnic",
+        "Muzeum Narodowe"
+      ],
+      "links": [
+        "https://visitwroclaw.eu/top-10-atrakcje-wroclaw",
+        "https://pl.wikipedia.org/wiki/Wroc%C5%82aw",
+        "https://visitwroclaw.eu/",
+        "https://www.polska.travel/pl/glowne-miasta/wroclaw"
+      ]
+    },
+    {
+      "id": 9,
+      "name": "Katowice",
+      "voivodeship": "śląskie",
+      "description": "Katowice (niem. Kattowitz, od marca 1953 r. do października 1956 r. – Stalinogród[3]) – miasto na prawach powiatu w Polsce, siedziba władz województwa śląskiego, główny ośrodek Górnośląskiego Okręgu Przemysłowego, największe pod względem ludności miasto konurbacji górnośląskiej, siedziba Górnośląsko-Zagłębiowskiej Metropolii, największe pod względem ludności i powierzchni miasto Górnego Śląska. Początki Katowic sięgają XVI wieku, kiedy były ośrodkiem rolniczym i kuźniczym, a ich gwałtowny rozwój został zapoczątkowany w połowie XIX wieku wraz z rozwojem przemysłu i doprowadzeniem do miasta linii kolejowej. Prawa miejskie uzyskały 11 września 1865, po czym rozwijały się w szybkim tempie. Z liczbą 282 755 mieszkańców[2] w grudniu 2021 r. były 11. miastem w kraju pod względem liczby ludności i 12. pod względem powierzchni (164,64 km²). Zlokalizowane na trasie głównych szlaków krajowych i międzynarodowych zarówno drogowych, jak i kolejowych. W Pyrzowicach funkcjonuje międzynarodowy port lotniczy Katowice-Pyrzowice. Stanowią ważny w skali kraju ośrodek gospodarczy, będąc centrum handlowo-usługowym ze znacznym udziałem działalności produkcyjnej. Są również ośrodkiem koncentracji specjalistycznych usług medycznych, funkcji akademickiej, kulturalnej oraz sportowej. W rankingu opublikowanym przez Globalization and World Cities Research Network, Katowice zostały sklasyfikowane w V kategorii (sufficiency level cities) miast o znaczeniu globalnym[4].",
+      "picture_url": "https://upload.wikimedia.org/wikipedia/commons/c/cf/MOs810_WG_2018_8_Zaleczansko_Slaski_%28Mariacka%2C_Katowice%29.jpg",
+      "known_places": [
+        "Ulica Mickiewicza",
+        "Nikiszowiec i Giszowiec",
+        "Muzeum Hutnictwa Walcownia Cynku",
+        "Spodek"
+      ],
+      "links": [
+        "https://www.niesamowitapolska.eu/wojewodztwa/slaskie/miasta/katowice-12-atrakcji-ktore-warto-zobaczyc",
+        "https://pl.wikipedia.org/wiki/Katowice",
+        "https://katowice.naszemiasto.pl/"
+      ]
+    },
+    {
+      "id": 10,
+      "name": "Gdynia",
+      "voivodeship": "pomorskie",
+      "description": "Gdynia (wymowa i, kaszub. Gdiniô, niem. Gdingen[a]) – miasto na prawach powiatu w północnej Polsce, w województwie pomorskim, położone nad Morzem Bałtyckim, na Pobrzeżu Gdańskim i Pojezierzu Wschodniopomorskim. Wchodzi w skład Trójmiasta (wraz z Gdańskiem i Sopotem), jest zatem jednym z miast centralnych aglomeracji Trójmiasta. Według stanu na koniec 2021 roku Gdynia liczyła ok. 244 000 mieszkańców[2] (dwunaste miejsce w Polsce[3]) i zajmowała powierzchnię ok. 135 km². Po nowym podziale działek terenu morskiego zwiększyła powierzchnię do 391 km², z czego 66 proc. obejmuje obszar morski[4]. Jest najludniejszym w Polsce miastem niewojewódzkim[5]. Prawa miejskie Gdynia uzyskała 4 marca 1926[1]. Impulsem do rozwoju miasta była budowa portu, który powstał w celu zapewnienia Polsce dostępu do morskich szlaków i bazy marynarki wojennej wobec niepewnej sytuacji w Wolnym Mieście Gdańsku. Szybki napływ ludności i dynamiczny rozwój portu sprawiły, że w ciągu kilkunastu lat po nadaniu praw miejskich Gdynia ze wsi rybackiej przekształciła się w miasto zamieszkane przez blisko 130 tys. osób (1939).",
+      "picture_url": "https://upload.wikimedia.org/wikipedia/commons/1/11/00_sea_towers_%28April_2018%29.jpg",
+      "known_places": [
+        "Donas – najwyższy szczyt",
+        "Leśny Ogród Botaniczny Marszewo",
+        "Oceanarium",
+        "Okręt – Muzeum ORP Błyskawica"
+      ],
+      "links": [
+        "https://www.gdynia.pl/",
+        "https://gdynia.naszemiasto.pl/",
+        "https://www.facebook.com/Gdynia/"
+      ]
+    },
+    {
+      "name": "Krosno",
+      "voivodeship": "podkarpackie",
+      "picture_url": "https://pl.wikipedia.org/wiki/Ryman%C3%B3w-Zdr%C3%B3j#/media/Plik:Ryman%C3%B3w_Zdr%C3%B3j,_szpital_uzdrowiskowy_Eskulap_(HB1).jpg",
+      "description": "Opis miastaOpis miastaOpis miastaOpis miastaOpis miastaOpis miastaOpis miastaOpis miastaOpis miastaOpis miastaOpis miastaOpis miastaOpis miasta",
+      "known_places": [
+        "Znane miejsce raz"
+      ],
+      "links": [
+        "https://www.npmjs.com/package/react-toastify"
+      ],
+      "id": 11
+    }
+  ]
+}
